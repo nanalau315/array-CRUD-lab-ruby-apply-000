@@ -35,7 +35,7 @@ def retrieve_first_element_from_array(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   array.[]0
 end
-  #above example can also be written as array[0]/
+  #above example can also be written as array[0]
   
 def retrieve_last_element_from_array(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
